@@ -1,0 +1,3 @@
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.csproj.CoreCompileInputs.cache
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.AssemblyInfoInputs.cache
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.AssemblyInfo.cs

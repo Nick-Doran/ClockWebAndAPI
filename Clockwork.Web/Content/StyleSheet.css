@@ -1,0 +1,91 @@
+﻿#body-container{
+    background-color:white;
+    opacity:.9;
+}
+@media (min-width: 992px) {
+    header {
+        padding: 60px 0 30px !important;
+    }
+}
+@media only screen and (min-width: 768px){
+    #myheadertext{
+        font-size: 2em !important;
+        line-height: 43px !important;
+    }
+}
+@media (min-width:320px){
+    #window-container {
+        background-image: url("black-bricks-4.jpg");
+    }
+}
+header{
+    padding:60px 0 0;
+}
+section {
+    padding: 100px 0;
+}
+.panel-padding {
+    padding: 5px 60px;
+}
+#table_panel_heading {
+    padding: 20px 20px;
+}
+#contact_us {
+    position: fixed;
+    bottom: 0;
+}
+#contact{
+    margin:auto;
+    text-align:center;
+}
+#body-container {
+    background-color: white;
+}
+#mainNav {
+    background-image: url("wood2.jpg");
+}
+#canvas {
+    padding: 10px 0 10px 0 !important;
+    background-image: url("Chalkboard-Background-xs.png");
+}
+#myheader{
+    background-image: url("wood2.jpg");
+}
+#canvas-box{
+     padding: 10px 0 10px 0;
+}
+#dropdown-box{
+     padding:10px 0 10px 0;
+}
+@font-face {
+    font-family: 'code';
+    src: url("CODE Bold.otf") format('opentype');
+}
+#myheadertext {
+    font-family: 'code';
+    font-size:1.5em;
+   line-height: 23px;
+}
+#apiheader{
+    margin:auto;
+    padding: 0 0 10px 0;
+}
+#apibutton{
+    padding:10px 0 0 0;
+}
+#seeallqueriesh2{
+    margin:auto;
+    text-align:center;
+}
+#seeallqueriestable{
+    visibility:hidden;
+}
+footer{
+    background-image: url("wood2.jpg");
+}
+#headersubtext{
+    font-size:1em;
+}
+#table_panel_heading{
+    text-align:center;
+}

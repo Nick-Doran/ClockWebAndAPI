@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "See All Queries";
+}
+
+<script>
+    var results, htmlbox, xhttp, i;
+    xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            results = this.responseText;
+            results = JSON.parse(results);
+            htmlbox = '<table class="display" id="Table_ID"> <thead> <tr> <th>Query ID</th><th>Time</th> <th>Cient Ip</th> <th>UTC Time</th> <th>Time Zone</th> </tr> </thead> <tbody>';
+            for (i = 0; i < results.length; i++) {
+                results[i].time = results[i].time.replace("T", " ");
+                results[i].time = results[i].time.substring(0, 19);
+                results[i].utcTime = results[i].utcTime.replace("T", " ");
+                results[i].utcTime = results[i].utcTime.substring(0, 19);
+                results[i].timezone = results[i].timezone.replace("_", " ");
+
+                htmlbox += "<tr>" +
+                    "<td>" + results[i].currentTimeQueryId + "</td>" +
+                    "<td>" + results[i].time + "</td>" +
+                    "<td>" + results[i].clientIp + "</td>" +
+                    "<td>" + results[i].utcTime + "</td>" +
+                    "<td>" + results[i].timezone + "</td>"
+                "</tr>";
+            };
+            htmlbox += "</tbody> </table>";
+            document.getElementById('htmlbox').innerHTML = htmlbox;
+            $("#Table_ID").DataTable();
+        }
+    }
+    xhttp.open("Get", "http://127.0.0.1:5000/api/timequeries", true);
+    xhttp.setRequestHeader("content-type", "application/json");
+    xhttp.send();
+
+
+</script>
+
+<h2 id="seeallqueriesh2">All Queries in Database:</h2>
+
+<div class="panel panel-primary panel-padding">
+    <div id="table_panel_heading" class="panel-heading">
+        Data retrieved from GetTimeQueries service of TimeQueries API
+    </div>
+    <div id="htmlbox" class="panel-body">
+
+    </div>
+</div> 

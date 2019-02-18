@@ -1,0 +1,17 @@
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\Clockwork.API.Tests.deps.json
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\Clockwork.API.Tests.runtimeconfig.json
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\Clockwork.API.Tests.runtimeconfig.dev.json
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\Clockwork.API.Tests.dll
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\Clockwork.API.Tests.pdb
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\Clockwork.API.dll
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\bin\Debug\netcoreapp2.1\Clockwork.API.pdb
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\obj\Debug\netcoreapp2.1\Clockwork.API.Tests.csprojAssemblyReference.cache
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\obj\Debug\netcoreapp2.1\Clockwork.API.Tests.csproj.CoreCompileInputs.cache
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\obj\Debug\netcoreapp2.1\Clockwork.API.Tests.AssemblyInfoInputs.cache
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\obj\Debug\netcoreapp2.1\Clockwork.API.Tests.AssemblyInfo.cs
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\obj\Debug\netcoreapp2.1\Clockwork.API.Tests.csproj.CopyComplete
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\obj\Debug\netcoreapp2.1\Clockwork.API.Tests.dll
+C:\Users\16149\OneDrive\Documents\AA\clockwork-repo\Clockwork.API.Tests\obj\Debug\netcoreapp2.1\Clockwork.API.Tests.pdb
